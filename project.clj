@@ -1,6 +1,6 @@
-(defproject com.taoensso/nippy "2.5.2"
+(defproject cursive/nippy "2.5.2"
   :description "Clojure serialization library"
-  :url "https://github.com/ptaoussanis/nippy"
+  :url "https://github.com/cursiveclojure/nippy"
   :license {:name "Eclipse Public License"
             :url  "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure      "1.4.0"]
